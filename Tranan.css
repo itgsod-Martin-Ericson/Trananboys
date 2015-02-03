@@ -1,5 +1,8 @@
 Body {
     background-color: darkred;
+    border-width: 6px;
+    border-color: white;
+    border-style: outset;
 }
 #Logga {
     font-style: oblique;
@@ -17,7 +20,7 @@ Body {
 
 }
 
-#body {
+#body
     border-width: 6px;
     border-color: white;
     border-style: outset;

@@ -1,0 +1,26 @@
+Body {
+    background-color: darkred;
+}
+#Logga {
+    font-style: oblique;
+    font: 220% serif;
+    text-align: center;
+    border-width: 3px;
+    border-color: Blue;
+    border-style: groove;
+}
+
+#MainSite {
+    text-align: center;
+    font-style: Italic;
+    font: 120% serif;
+
+}
+
+#body {
+    border-width: 6px;
+    border-color: white;
+    border-style: outset;
+}
+
+#Färgerna Är Bara ett test och vi ska såklart ändra de. Sen så vet jag inte varför #body border inte är runt hela, det var det förut.
